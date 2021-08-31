@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text From Image Recognition</string>
+    <string name="overlay_help">Center text in box</string>
+</resources>
